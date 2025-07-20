@@ -1,8 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+changing , copying,any alternative cloning from this project is strictly prohibited.
 
 Highlights:
 
@@ -14,20 +12,8 @@ Highlights:
 - 🐞 Error handling both on the server and on the client
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
-
+VITE used
 ### Setup .env file
-
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
-
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-
-NODE_ENV=development
-```
 
 ### Build the app
 
